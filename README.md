@@ -8,4 +8,5 @@
 satvikad/satvikad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Summer Semester start may 16 2022!
+Summer Semester start may 16 2022! 
+Database systems csci 6622-02 !
